@@ -1,0 +1,255 @@
+;1 Unit;Conversion;Class
+acidulated water;500;1;0
+acorn squash;30;1;8
+aleppo pepper;20;1;9
+amaretti;50;1;4
+anchovy;150;1;10
+aubergine;80;1;1
+baguette;200;0.7564;0
+banana bread;1;1;11
+beansprouts;150;1;1
+bechamel;150;1;0
+bechamel sauce;150;1;0
+beef brisket;300;1;8
+beef fillet;300;1;8
+beef flank;300;1;8
+beef rib;300;1;8
+beef rump;300;1;8
+beef sausage;300;1;8
+beetroot;75;1;1
+berry;10;1;6
+biscotti;80;1;2
+biscuit;80;1;4
+bitter;100;1;0
+black pepper;20;1;9
+blood orange;200;1;6
+bouquet garni;50;1;6
+bratwurst;150;1;8
+bread roll;200;1;11
+breadstick;50;1;11
+brie cheese;200;1;3
+brioche;200;1;11
+brown bread;200;1;11
+bun;200;1;11
+butterhead lettuce;150;1;1
+butternut squash;80;1;6
+capsicum;80;1;6
+carrot cake;1;1;11
+catfish;250;1;10
+caviar;100;1;10
+cavolo nero;80;1;1
+chicken breast;250;1;8
+chicken leg;250;1;8
+chicken thigh;250;1;8
+chicken wing;250;1;8
+chilli;40;1;9
+chinese pancake;200;1;11
+chip;100;1;0
+chipotle;80;1;9
+chocolate cake;1;1;0
+chocolate mousse;1;1;0
+chorizo;200;1;8
+chutney;150;1;0
+ciabatta;200;1;0
+cilantro;30;1;9
+citrus;80;1;6
+clam;50;1;10
+cod;200;1;10
+compote;200;1;6
+cottage cheese;200;1;3
+coulis;200;1;0
+courgette;80;1;1
+crab;200;1;10
+crayfish;100;1;10
+cream cheese;200;1;3
+cream liqueur;150;1;3
+crepe;100;1;2
+crisp;200;1;0
+crostini;80;1;2
+crudites;250;1;10
+crumble;150;1;11
+cumberland sauce;150;1;0
+curacao;80;1;0
+curly kale;80;1;1
+curry;30;1;9
+custard;150;1;0
+dark chocolate;250;1;4
+digestive biscuit;200;1;4
+dover sole;200;1;10
+dried chilli;30;1;9
+duck confit;250;1;8
+duck fat;30;1;5
+dumpling;100;1;0
+duxelles;150;1;0
+egg wash;80;1;3
+egg white;80;1;3
+egg yolk;100;1;3
+english muffin;200;1;11
+fettuccine;500;1;2
+fish;250;1;10
+flatbread;200;1;11
+focaccia;200;1;11
+foie gras;250;1;5
+frangipane;200;1;4
+french bread;250;1;11
+fruit juice;800;1;0
+fudge;200;1;4
+galangal;100;1;9
+game;200;1;8
+garlic bread;200;1;11
+gelatine;30;1;0
+gingerbread;200;1;11
+globe artichoke;150;1;1
+gnocchi;350;1;2
+gratin;1;1;0
+gravy;150;1;0
+green cabbage;300;1;1
+green tea;50;1;9
+guacamole;200;1;1
+haddock;250;1;10
+halibut;250;1;10
+harissa;80;1;9
+herb;50;1;9
+hollandaise sauce;150;1;0
+horseradish sauce;150;1;0
+iceberg lettuce;200;1;1
+icing;110;1;0
+john dory;200;1;10
+jus;150;1;0
+ketjap manis;125;1;0
+kiwi;80;1;6
+kiwi fruit;80;1;6
+lamb chop;250;1;8
+lamb loin;250;1;8
+lamb rack;250;1;8
+lamb rump;250;1;8
+lamb shank;250;1;8
+lamb shoulder;250;1;8
+lasagne;200;1;11
+leftover turkey;180;1;8
+lemon balm;115;1;9
+lemon sole;225;1;10
+lemongrass;70;1;9
+lobster;200;1;10
+lychee;50;1;6
+macaroon;150;1;4
+marrow;200;1;8
+mashed potato;200;1;1
+meringue;140;1;4
+mince;300;1;8
+mint;120;1;9
+mint sauce;100;1;0
+mussel;250;1;10
+mutton;250;1;8
+naan bread;180;1;11
+noodle soup;180;1;2
+nori;60;1;0
+nougat;140;1;4
+octopus;280;1;10
+paella;300;1;10
+pancake;200;1;4
+panettone;200;1;4
+partridge;120;1;8
+passion fruit;80;1;6
+pastrami;200;1;8
+pastry;120;1;4
+pate;80;1;0
+peel;7;1;0
+peppercorn;100;1;1
+pepperoncini;100;1;1
+pepperoni;80;1;1
+perch;180;1;10
+pickled onion;70;1;1
+pike;300;1;10
+pink peppercorn;80;1;1
+pistachio;120;1;7
+pizza;200;1;11
+polenta;200;1;2
+pork belly;250;1;8
+pork chop;250;1;8
+pork leg;250;1;8
+pork mince;250;1;8
+pork shoulder;250;1;8
+potato rosti;400;1;1
+poussin;80;1;8
+praline;80;1;4
+prawn;200;1;10
+prosciutto;200;1;8
+puff pastry;130;1;11
+pulled pork;250;1;8
+pumpernickel bread;150;1;11
+rainbow chard;200;1;10
+rainbow trout;200;1;10
+raita;150;1;0
+red cabbage;80;1;1
+red mullet;200;1;10
+red onion;70;1;1
+red snapper;200;1;10
+rennet;100;1;3
+rice noodle;200;1;2
+ricotta cheese;140;1;3
+risotto;180;1;2
+roast chicken;200;1;10
+roast turkey;200;1;10
+rock salt;10;1;9
+rocket;250;1;1
+root vegetable;100;1;1
+rouille;120;1;0
+royal icing;80;1;4
+rump;250;1;8
+rye bread;110;1;11
+salad;80;1;1
+savoy cabbage;60;1;1
+sea bass;250;1;10
+sea trout;250;1;10
+seafood;250;1;10
+seasoning;80;1;0
+shiitake mushroom;100;1;1
+shortbread;150;1;11
+shortcrust pastry;100;1;4
+sloe gin;70;1;0
+smoked cheese;150;1;5
+smoked trout;250;1;10
+snapper;250;1;10
+soda bread;150;1;2
+sole;250;1;10
+sorbet;150;1;4
+soup;100;1;9
+sourdough bread;150;1;2
+spaghetti squash;250;1;2
+sponge cake;125;1;4
+spring onion;60;1;1
+squid;250;1;10
+star anise;2;1;9
+steak;300;1;8
+stuffing;250;1;0
+sushi rice;200;1;2
+sweet sherry;10;1;6
+swiss chard;50;1;1
+swordfish;300;1;10
+tabasco;4;1;9
+tapenade;100;1;0
+tea;150;1;9
+tempura;300;1;10
+teriyaki;300;1;8
+terrine;250;1;8
+thai basil;30;1;9
+tilapia;250;1;10
+toffee;80;1;4
+tortellini;400;1;11
+tortilla;300;1;11
+tortilla flour;500;1;2
+trout;250;1;10
+truffle;3;1;1
+vanilla pod;3;1;0
+vegetarian sausage;150;1;0
+waffle;40;1;11
+waxy potato;50;1;1
+white bread;100;1;11
+white cabbage;75;1;1
+white fish;200;1;10
+white pepper;5;1;9
+wild duck;250;1;8
+wrap;300;1;0
+yeast;15;1;0
+yuzu;50;1;6
